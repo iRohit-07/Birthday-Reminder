@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Birthday Reminder</string>
+    <string name="birthdays_title">Birthdays</string>
+    <string name="birthdays_subtitle">Never miss a special day</string>
+    <string name="btn_load">Load</string>
+    <string name="btn_add_birthday">Add Birthday</string>
+    <string name="placeholder_initial">A</string>
+    <string name="placeholder_contact_name">Contact name</string>
+    <string name="placeholder_birthday_date">Birthday date</string>
+    <string name="placeholder_days_left">in 5 days</string>
+</resources>
